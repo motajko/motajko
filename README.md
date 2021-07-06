@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @motajko
-- 👀 I’m interested in everything
-- 🌱 I’m always learning
+- 🌱 Always learning, failing too often but never giving up.
 
 
 <!---
